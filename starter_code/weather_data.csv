@@ -1,0 +1,10 @@
+,latitude,longitude,City,Country,Temperature (F),Humidity (%),Cloudiness (%),Wind Speed (MPH)
+0,39.48,62.91,Seydi,TM,291.86,27,0,6.64
+1,69.7,170.31,Pevek,RU,240.17,100,100,0.49
+2,47.67,-52.73,Torbay,CA,273.52,66,75,21.1
+3,-33.93,18.42,Cape Town,ZA,301.68,48,58,6.2
+4,42.6,-73.97,Albany,US,266.85,67,75,3.1
+5,22.08,-159.32,Kapaa,US,291.16,82,75,3.1
+6,55.1,-105.28,La Ronge,CA,257.15,91,90,2.1
+7,-36.83,175.7,Whitianga,NZ,287.59,80,50,3.62
+8,-34.73,135.87,Port Lincoln,AU,293.79,79,0,2.35
